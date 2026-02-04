@@ -6,7 +6,7 @@ int main()
 	const int screenHeight = 720;
 
 	SetConfigFlags(FLAG_VSYNC_HINT);
-	InitWindow(1280, 720, "Walking Around 1.0.1");
+	InitWindow(1280, 720, "Walking Around 1.0.0");
 	
 	HideCursor();
 
@@ -38,4 +38,5 @@ int main()
 	CloseWindow();
 
 	return 0;
+
 }
