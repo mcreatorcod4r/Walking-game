@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="WalkingAround/WalkingAround.vcxproj" Id="31ca1524-b985-416f-bfe0-42b8f0f070d2" />
+</Solution>
